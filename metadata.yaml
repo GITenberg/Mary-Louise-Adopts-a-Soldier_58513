@@ -1,0 +1,43 @@
+_repo: Mary-Louise-Adopts-a-Soldier_58513
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wyckoff, Joseph W.
+    gutenberg_agent_id: '50005'
+    url: http://www.gutenberg.org/2009/agents/50005
+creator:
+  authors:
+  - agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Metcalf, Suzanne
+    - Cooke, John Estes
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Fitzgerald, Capt. Hugh
+    - Staunton, Schuyler
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+  - agent_name: Sampson, Emma Speed
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '25389'
+    url: http://www.gutenberg.org/2009/agents/25389
+description: ''
+gutenberg_issued: '2018-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mary Louise Adopts a Soldier
+url: http://www.gutenberg.org/ebooks/58513
